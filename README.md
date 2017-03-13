@@ -1,7 +1,7 @@
-# Starter-Patlegris
-Quick web front-end Starter kit, design with Material & Bootstrap
+# Starter-Material
+Quick web front-end Starter kit, design with SASS, Material & Bootstrap
 
-### SASS + Google's Material Design Standards + Bootstrap 3 + jQuery 3 + Browser-sync
+### SASS + Google's Material Design Standards + Bootstrap 3 + jQuery 3 + Browser-sync and further more... (Pug, colors, typos...)
 It makes your website more attractive, consistent, and functionally powerful.
 
 ![alt tag](https://raw.github.com/dogfalo/materialize/master/images/materialize.gif)
@@ -43,11 +43,10 @@ Modify your index.html with Bootstrap + Materialize class
 
 ## License MIT
 
-WebOfPat by Patlegris v0.3 [webofpat](https://www.webofpat.io/).
-Licensed under [MIT](https://github.com/patlegris/Starter-Patlegris)
+Starter-Material by Patlegris v0.3 [see on webofpat](https://www.webofpat.io/starter).
+Licensed under [MIT](https://github.com/patlegris/Starter-Material)
 
 
 ## Author
 
-Starter-patlegris Developed and maintained at [webofpat](https://www.webofpat.io/).
-Propeller Developed and maintained at [Digicorp](https://www.digi-corp.com/).
+Starter-Material Developed and maintained by Patlegris. See :  [see on webofpat](https://www.webofpat.io/starter).
