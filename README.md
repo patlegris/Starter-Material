@@ -1,19 +1,19 @@
 # Starter-Patlegris
 Quick web front-end Starter kit, design with Material & Bootstrap
 
-## SASS + Google's Material Design Standards + Bootstrap 3 + jQuery 3 + Browser-sync
-### It makes your website more attractive, consistent, and functionally powerful.
-
-### Great thanks to Materialize
-### Great thanks to Bootstrap 3
-### Thanks to Propeller
-Propeller is a front-end responsive framework 
-based on Google's Material Design Standards & Bootstrap.
+### SASS + Google's Material Design Standards + Bootstrap 3 + jQuery 3 + Browser-sync
+It makes your website more attractive, consistent, and functionally powerful.
 
 ![alt tag](https://raw.github.com/dogfalo/materialize/master/images/materialize.gif)
 ===========
+Current Version : v0.97.8
 
-### Current Version : v0.97.8
+### Thanks
+Great thanks to Materialize
+Great thanks to Bootstrap 3
+Thanks to Propeller
+Propeller is a front-end responsive framework 
+based on Google's Material Design Standards & Bootstrap.
 
 ## Requirements:
 - Ruby Sass 3.3+, LibSass 0.6+
