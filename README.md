@@ -37,11 +37,11 @@ Modify your index.html with Bootstrap + Materialize class
 
 ## License
 
-WebOfPat by Patlegris v0.3.1 [webofpat](https://www.digi-corp.com/).
-Licensed under [MIT](https://github.com/patlegris/Starter-patlegris)
+WebOfPat by Patlegris v0.3.1 [webofpat](https://www.webofpat.io/).
+Licensed under [MIT](https://github.com/patlegris/Starter-Patlegris)
 
 
 ## Author
 
-Starter-patlegris Developed and maintained at [webofpat](https://www.digi-corp.com/).
+Starter-patlegris Developed and maintained at [webofpat](https://www.webofpat.io/).
 Propeller Developed and maintained at [Digicorp](https://www.digi-corp.com/).
