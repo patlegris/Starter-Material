@@ -6,7 +6,7 @@ It makes your website more attractive, consistent, and functionally powerful.
 
 ![alt tag](https://raw.github.com/dogfalo/materialize/master/images/materialize.gif)
 ===========
-Current Version : v0.97.8
+Current Version : v0.3
 
 ### Thanks
 Great thanks to Materialize
